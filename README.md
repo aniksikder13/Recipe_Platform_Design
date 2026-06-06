@@ -1,4 +1,7 @@
 # 🧠 Recipe Platform Backend - Architecture Review
+---
+![Banner](./docs/banner.png)
+---
 
 ## 1. High-Level Overview
 
