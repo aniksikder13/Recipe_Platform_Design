@@ -425,5 +425,5 @@ System is prepared for:
 🌐 Production Deployment
 The system is live and fully deployed on Render:
 
-ReDoc: https://anik-recipe-platform.onrender.com/api/redoc
-Swagger UI: https://anik-recipe-platform.onrender.com/api/docs
+* ReDoc: https://anik-recipe-platform.onrender.com/api/redoc
+* Swagger UI: https://anik-recipe-platform.onrender.com/api/docs
